@@ -1,19 +1,7 @@
-body {
-  border: 2px solid black;
-  margin: 5px;
-  /*background: url(https://www.pedbikeimages.org/largeimages/IMG_0080.jpg);*/
-}
-
-header  {
-}
-
-nav ul {
-  margin: 0;
-  padding: 0;
-}
-
-nav ul li{
+nav ul li {
   display: inline;
 }
 
-
+a {
+  color: green;
+}

@@ -1,0 +1,29 @@
+body {
+  border: 2px solid black;
+  margin: 15px;
+  font-family: Helvetica;
+  font-size: 1.2em;
+  /*background: url(https://www.pedbikeimages.org/largeimages/IMG_0080.jpg);*/
+}
+
+h1 {
+  text-align: center;
+}
+nav, section {
+  border: 2px solid blue;
+  margin: 5px;
+  padding: 7px;
+}
+nav ul {
+  margin: 10;
+  padding: 0;
+}
+
+nav ul li{
+  display: inline;
+  margin: 5px;
+}
+
+p{
+  text-indent: 30px;
+}
