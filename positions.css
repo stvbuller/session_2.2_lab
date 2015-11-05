@@ -1,75 +1,19 @@
 body {
   border: 2px solid black;
+  margin: 5px;
   /*background: url(https://www.pedbikeimages.org/largeimages/IMG_0080.jpg);*/
 }
 
 header  {
-  border: 2px solid yellow;
-  width: 75%;
-  margin-left: 5em;
 }
 
-h1  {
-  border: 2px solid aquamarine;
-  width: 50%;
-  margin-left: 5em;
+nav ul {
+  margin: 0;
+  padding: 0;
 }
 
-nav {
-  border: 2px solid brown; 
-  width: 50%; 
-  margin-left: 15em;
-  text-align: center;
-  position: fixed;
-}
-
-section {
-  border: 2px solid chartreuse;
-  height: 100%;
-}
-
-h3 {
-  border: 2px solid green;
-  width: 50%;
-}
-
-article {
-  border: 2px solid red;
-  text-indent: 20px;
-}
-
-p {
-  border: 2px solid purple;
-  text-indent: 20px;
-  width: 40%;
-  margin-left: 5%;
-  margin-right: 5%;
-}
-
-p.para_2 {
-  border: 2px solid darkblue;
-  text-indent: 50px;
-  width: 40%;
-  margin-left: 55%;
-  margin-right: 5%;
-  margin-top: -17%;
-  position: relative;
+nav ul li{
+  display: inline;
 }
 
 
-ul {
-  border: 2px solid orange;
-  width: 200px;
-}
-
-footer {
-  border: 2px solid fuchsia;
-  width: 75%;
-  margin-left: 5%;
-}
-
-h3.end{
-  margin-left: 75%;
-  margin-right: 10%;
-  text-align: center;
-}
