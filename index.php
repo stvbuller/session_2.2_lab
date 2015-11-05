@@ -1,1 +1,1 @@
-{`}
+<?PHP require(home.html)?>
