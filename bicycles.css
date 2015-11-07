@@ -37,6 +37,7 @@ p{
   background-color: lightblue;
   position: fixed;
   top: -5px;
+  z-index: 100;
 }
 .bike-types {
   width: 45%;
