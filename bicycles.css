@@ -27,3 +27,43 @@ nav ul li{
 p{
   text-indent: 30px;
 }
+
+.about_bicycles {
+  position: relative;
+  top: 80px;
+  z-index: -10;
+}
+.fixed-nav{
+  background-color: lightblue;
+  position: fixed;
+  top: -5px;
+}
+.bike-types {
+  width: 45%;
+  background-color: grey;
+}
+
+.frame-materials {
+  width: 45%;
+  background-color: grey;
+}
+
+.tires{
+  width:45%;
+  background-color: grey;
+}
+
+.safety {
+  width: 45%;
+  margin-left: 50%;
+  background-color: orange;
+  position: relative;
+  top: -845px;
+
+
+}
+.footer{
+  position: fixed;
+  bottom: 10px;
+  right: 50px;
+}
